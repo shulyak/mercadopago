@@ -1,0 +1,13 @@
+{
+	"name": "shulyak/mercadopago",
+	"description": "MercadoPago SDK module for Payments integration.",
+	"keywords": ["mercadopago", "sdk"],
+	"require": {
+		"ext-curl": "*"
+	},
+	"autoload": {
+		"classmap": [
+			"lib/mercadopago.php"
+		]
+	}
+}
