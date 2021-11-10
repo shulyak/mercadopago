@@ -14,7 +14,7 @@
 From command line
 
 ```
-composer require shulyak/mercadopago:0.5.2
+composer require shulyak/mercadopago:1.0.0
 ```
 
 As a dependency in your project's composer.json
@@ -22,7 +22,7 @@ As a dependency in your project's composer.json
 ```json
 {
     "require": {
-        "shulyak/mercadopago": "0.5.2"
+        "shulyak/mercadopago": "1.0.0"
     }
 }
 ```
